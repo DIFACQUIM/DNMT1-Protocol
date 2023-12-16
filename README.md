@@ -8,4 +8,4 @@ Compounds with nucleoside scaffolds were removed with the script "Scaffolds_Nucl
 
 Please, cite our paper:
 
-Prado-Romero DL, Gómez-García A, Cedillo-González R, Villegas-Quintero H, Avellaneda-Tamayo JF, López-López E, Saldívar-González FI, Chávez-Hernández AL and Medina-Franco JL (2023) Consensus docking aid to model the activity of an inhibitor of DNA methyltransferase 1 inspired by de novo design. Front. Drug Discov. 3:1261094. doi: 10.3389/fddsv.2023.1261094
+Prado-Romero DL, Gómez-García A, Cedillo-González R, Villegas-Quintero H, Avellaneda-Tamayo JF, López-López E, Saldívar-González FI, Chávez-Hernández AL and Medina-Franco JL (2023) Consensus docking aid to model the activity of an inhibitor of DNA methyltransferase 1 inspired by de novo design. Front. Drug Discov. 3:1261094. doi: [10.3389/fddsv.2023.1261094](https://www.frontiersin.org/articles/10.3389/fddsv.2023.1261094/full)
