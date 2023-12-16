@@ -3,3 +3,9 @@
     
 The initial dataset was retrieved from ChEMBL API v.32, compounds with unequivocally assigned IC50 were selected and saved in the file "ChEMBL32_DNMT1_196.csv". <br>
 Compounds with nucleoside scaffolds were removed with the script "Scaffolds_Nucleoside_analogs.ipynb". Docking scores calculated for the 153 ligands with DNMT1 (PDB ID: 4WXX) using AutoDock Vina (Scores_Vina), LeDock (Scores_Ledock), and MOE (Scores_MOE) software were added to the file "Docking_DNMT1_153.csv". The analysis of the results was carried out with the script "Docking_results_analysis.ipynb".
+
+#### References
+
+Please, cite our paper:
+
+Prado-Romero DL, Gómez-García A, Cedillo-González R, Villegas-Quintero H, Avellaneda-Tamayo JF, López-López E, Saldívar-González FI, Chávez-Hernández AL and Medina-Franco JL (2023) Consensus docking aid to model the activity of an inhibitor of DNA methyltransferase 1 inspired by de novo design. Front. Drug Discov. 3:1261094. doi: 10.3389/fddsv.2023.1261094
